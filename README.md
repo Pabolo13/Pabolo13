@@ -1,5 +1,12 @@
-### Hi there 👋
-
+<h1 align="center">Hello World! Eu sou o Pabolo :3🥺🌹</h1>
+<h2 align="center">Eu sou um Estudante Full Stack</h2>
+<h2 align="left">Meus Estudos:</h2>
+<ul>
+<dt>Html</dt>
+<dt>Css</dt>
+<dt>bootstrap</dt>
+<dt>Javascript</dt>
+<ul>
 <!--
 **Pabolo13/Pabolo13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
